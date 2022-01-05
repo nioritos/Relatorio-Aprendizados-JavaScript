@@ -6,7 +6,7 @@ var nomeVariavel; //var é um tipo de variável que pode ter seu valor trocado, 
 let nameVariavel; //let é um tipo de variável que pode ter seu valor trocado, porém com restrições que o var tem a liberdade de usar. Mas especificamente, o let é posto em um bloco de código, ele irá trabalhar apenas neste bloco .
 // exemplo : 
 
-//multiplas variáveis :
+//multiplas variáveis declaradas sem a palavra chave var :
 
 var nome = 'nior',
     idade = 12,
