@@ -12,4 +12,6 @@ Se vocês quiserem, posso indicar alguns cursos sobre a linguagem JavaScript.
 
 Uma boa leitura/interpretação, e um bom código!
 
+Aviso : o relatório será atualizado constantemente assim que eu puder (a maioria, proponho diariamente! =D).
+
 Atenciosamente, nior. 04/01/22
