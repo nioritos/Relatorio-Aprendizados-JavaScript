@@ -23,6 +23,8 @@ var aMenssage = 'oi';
 // var aMenssage;
 // console.log(aMenssage); 
 //o que acontece é a elevação da váriavel sem o seu valor para antes do console.log(), que assim, não retorna um ReferenceError (erro de referência).
+
+// exemplo (comparação var e let) :
 function retEscopo() {
     for(var i = 4;i < 5; i++) {
         console.log(i)
