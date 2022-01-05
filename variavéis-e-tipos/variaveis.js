@@ -1,6 +1,16 @@
-var nomeVariavel; //var é um tipo de variável que pode ter seu valor trocado, porém com "destinos/modos de usar o escopo" e "funcções internas" e uma certa liberdade. Como o hosting, podendo ter 2 variáveis com o mesmo nome "sem problemas (sem retornar que a variaável com o nome já existe)"=.
+//Variáveis, servem para guardar um tipo de tal valor recebido. Assim evitando repetições.
+
+var nomeVariavel; //var é um tipo de variável que pode ter seu valor trocado, porém com "destinos/modos de usar o escopo" e "funcções internas" e uma certa liberdade. Como o hosting, e também podendo ter 2 variáveis ou mais sem o nome var, apenas utilizando a vírgula.
+
+
 let nameVariavel; //let é um tipo de variável que pode ter seu valor trocado, porém com restrições que o var tem a liberdade de usar. Mas especificamente, o let é posto em um bloco de código, ele irá trabalhar apenas neste bloco .
 // exemplo : 
+
+//multiplas variáveis :
+
+var nome = 'nior',
+    idade = 12,
+    comida = 'miojo'
 
 //hoisting do var
 
